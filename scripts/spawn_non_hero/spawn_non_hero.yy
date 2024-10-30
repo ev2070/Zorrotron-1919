@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"spawn_non_hero",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spawn_non_hero",
+  "parent":{
+    "name":"for_non_heroes",
+    "path":"folders/Scripts/wave_management/for_non_heroes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"set_target_position",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_target_position",
+  "parent":{
+    "name":"for_moveable_non_heroes",
+    "path":"folders/Scripts/wave_management/for_non_heroes/for_moveable_non_heroes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

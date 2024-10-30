@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"reset_non_heroes",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"reset_non_heroes",
+  "parent":{
+    "name":"for_non_heroes",
+    "path":"folders/Scripts/wave_management/for_non_heroes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

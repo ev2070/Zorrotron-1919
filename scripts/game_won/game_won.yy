@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"game_won",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"game_won",
+  "parent":{
+    "name":"standby_callbacks",
+    "path":"folders/Scripts/standby_management/standby_callbacks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"spawn_bonus",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"spawn_bonus",
+  "parent":{
+    "name":"wave_management",
+    "path":"folders/Scripts/wave_management.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

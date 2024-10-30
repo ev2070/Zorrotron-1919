@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_high_score",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_high_score",
+  "parent":{
+    "name":"game_logic",
+    "path":"folders/Scripts/game_logic.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

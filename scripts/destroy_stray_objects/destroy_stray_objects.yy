@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"destroy_stray_objects",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"destroy_stray_objects",
+  "parent":{
+    "name":"for_non_heroes",
+    "path":"folders/Scripts/wave_management/for_non_heroes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

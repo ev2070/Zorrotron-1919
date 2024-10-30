@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"restart_game",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"restart_game",
+  "parent":{
+    "name":"standby_callbacks",
+    "path":"folders/Scripts/standby_management/standby_callbacks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

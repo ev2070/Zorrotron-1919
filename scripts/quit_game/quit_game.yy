@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"quit_game",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"quit_game",
+  "parent":{
+    "name":"game_logic",
+    "path":"folders/Scripts/game_logic.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

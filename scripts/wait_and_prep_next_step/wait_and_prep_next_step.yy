@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"wait_and_prep_next_step",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"wait_and_prep_next_step",
+  "parent":{
+    "name":"for_moveable_non_heroes",
+    "path":"folders/Scripts/wave_management/for_non_heroes/for_moveable_non_heroes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_hero_sprite",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_hero_sprite",
+  "parent":{
+    "name":"for_hero",
+    "path":"folders/Scripts/wave_management/for_hero.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"setup_wave",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"setup_wave",
+  "parent":{
+    "name":"game_logic",
+    "path":"folders/Scripts/game_logic.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"set_bullet_direction",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_bullet_direction",
+  "parent":{
+    "name":"ammo_and_bullets",
+    "path":"folders/Scripts/wave_management/for_hero/ammo_and_bullets.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

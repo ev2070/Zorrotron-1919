@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"reset_qte",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"reset_qte",
+  "parent":{
+    "name":"game_logic",
+    "path":"folders/Scripts/game_logic.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"keep_in_bounds",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"keep_in_bounds",
+  "parent":{
+    "name":"wave_management",
+    "path":"folders/Scripts/wave_management.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

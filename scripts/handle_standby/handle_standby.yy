@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"handle_standby",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"handle_standby",
+  "parent":{
+    "name":"standby_management",
+    "path":"folders/Scripts/standby_management.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

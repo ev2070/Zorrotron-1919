@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"create_human_collision",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_human_collision",
+  "parent":{
+    "name":"collision_checks",
+    "path":"folders/Scripts/wave_management/collision_checks.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

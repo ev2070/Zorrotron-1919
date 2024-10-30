@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"set_non_hero_random_position",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"set_non_hero_random_position",
+  "parent":{
+    "name":"for_non_heroes",
+    "path":"folders/Scripts/wave_management/for_non_heroes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

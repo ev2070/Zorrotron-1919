@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"check_hero_states",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"check_hero_states",
+  "parent":{
+    "name":"for_hero",
+    "path":"folders/Scripts/wave_management/for_hero.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

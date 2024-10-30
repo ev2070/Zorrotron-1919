@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_centered_text",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_centered_text",
+  "parent":{
+    "name":"rendering",
+    "path":"folders/Scripts/rendering.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

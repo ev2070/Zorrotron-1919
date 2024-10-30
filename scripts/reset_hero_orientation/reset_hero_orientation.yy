@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"reset_hero_orientation",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"reset_hero_orientation",
+  "parent":{
+    "name":"for_hero",
+    "path":"folders/Scripts/wave_management/for_hero.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

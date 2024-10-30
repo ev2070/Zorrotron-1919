@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"standby_restart",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"standby_restart",
+  "parent":{
+    "name":"standby_management",
+    "path":"folders/Scripts/standby_management.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

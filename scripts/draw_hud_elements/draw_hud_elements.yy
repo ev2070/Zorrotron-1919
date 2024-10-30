@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_hud_elements",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_hud_elements",
+  "parent":{
+    "name":"rendering",
+    "path":"folders/Scripts/rendering.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

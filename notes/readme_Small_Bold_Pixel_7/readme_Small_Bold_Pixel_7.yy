@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"readme_Small_Bold_Pixel_7",
+  "name":"readme_Small_Bold_Pixel_7",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

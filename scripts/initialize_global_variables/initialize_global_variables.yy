@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"initialize_global_variables",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"initialize_global_variables",
+  "parent":{
+    "name":"game_logic",
+    "path":"folders/Scripts/game_logic.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

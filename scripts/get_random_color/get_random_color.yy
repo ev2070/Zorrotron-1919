@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"get_random_color",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"get_random_color",
+  "parent":{
+    "name":"color_management",
+    "path":"folders/Scripts/color_management.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
