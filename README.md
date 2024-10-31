@@ -2,6 +2,12 @@
 
 **Zorrotron: 1919** is a reimagining of the classic _Robotron: 2084_ arcade game, built with GameMaker Studio 2. Step into the tall, black boots of the heroic masked vigilante, Zorro, as you combat tyranny and defend the downtrodden civilians of the town, all while maneuvering through obstacles along the way.
 
+## Demo
+
+Check out this YouTube [demo](https://youtu.be/XwNGttqinVo) video to see **Zorrotron: 1919** in action!
+
+[![Zorrotron: 1919 - Demo](assets/zorrotron-1919.png)](https://youtu.be/XwNGttqinVo)
+
 ## Instructions for Gameplay
 
 Save the people of the land!
