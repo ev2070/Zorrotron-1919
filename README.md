@@ -68,7 +68,7 @@ Slip on Zorro's mask and face the challenge ahead—play **Zorrotron: 1919**!
 
 Assets that I do not own are acknowledged in the [credits.md](./credits.md) file.
 
-# Usage
+## Usage
 
 While I appreciate interest in my project, please note the following:
 
